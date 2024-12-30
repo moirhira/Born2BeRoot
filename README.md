@@ -2,7 +2,6 @@
 
 This repository contains my implementation of the **Born2beRoot** project from 42 School. The project focuses on setting up a secure server environment using virtualization while adhering to strict system administration guidelines.
 
-```
 ## Project Overview
 
 - **Virtualization**: Use **VirtualBox** or **UTM** to create a virtual machine.
@@ -18,7 +17,7 @@ This repository contains my implementation of the **Born2beRoot** project from 4
 - Install **VirtualBox**:
   ```bash
   sudo apt install virtualbox
-  ```
+
 - Download the latest stable version of [Debian](https://www.debian.org/distrib/) or [Rocky Linux](https://rockylinux.org/download).
 
 ---
